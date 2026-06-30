@@ -1,0 +1,2 @@
+Can you add the current stashed changes.
+Rebase them in the INIT commit (the first one) and force push main?

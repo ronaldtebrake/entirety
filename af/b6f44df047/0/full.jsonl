@@ -1,0 +1,1 @@
+{"role":"user","message":{"content":[{"type":"text","text":"<user_query>\nCan you add the current stashed changes.\nRebase them in the INIT commit (the first one) and force push main? \n</user_query>"}]}}
