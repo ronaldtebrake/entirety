@@ -1,0 +1,22 @@
+{
+  "name": "entirety",
+  "version": "0.1.0",
+  "description": "Cross-agent skills that help coding agents use Entire context.",
+  "author": {
+    "name": "Ronald Te Brake",
+    "url": "https://github.com/ronaldtebrake"
+  },
+  "homepage": "https://github.com/ronaldtebrake/entirety",
+  "repository": "https://github.com/ronaldtebrake/entirety",
+  "license": "MIT",
+  "keywords": ["entire", "skills", "agent-workflows", "checkpoints"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Entirety",
+    "shortDescription": "Entire-powered cross-agent skills",
+    "developerName": "Ronald Te Brake",
+    "category": "Development",
+    "capabilities": ["Interactive", "Write"],
+    "websiteURL": "https://github.com/ronaldtebrake/entirety"
+  }
+}

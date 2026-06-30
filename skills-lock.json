@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "review": {
+      "source": "entireio/skills",
+      "sourceType": "github",
+      "skillPath": "skills/review/SKILL.md",
+      "computedHash": "69f0eb9f708c1f84a0f5a5985bbcf0198fe58a18f7ebefb1f24f8b9d2d29ff7e"
+    }
+  }
+}

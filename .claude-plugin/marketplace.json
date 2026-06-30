@@ -1,0 +1,20 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "entirety-skills",
+  "description": "Cross-agent skills that help coding agents use Entire context.",
+  "owner": {
+    "name": "Ronald Te Brake"
+  },
+  "plugins": [
+    {
+      "name": "entirety",
+      "description": "Cross-agent skills that help coding agents use Entire context.",
+      "version": "0.1.0",
+      "source": "./",
+      "category": "development",
+      "author": {
+        "name": "Ronald Te Brake"
+      }
+    }
+  ]
+}
